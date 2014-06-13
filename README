@@ -1,0 +1,4 @@
+
+
+After cloning repo create symlink:
+	ln -s ~/.tmux/tmux.conf ~/.tmux.conf
